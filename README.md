@@ -1,4 +1,6 @@
-## Hi 👋, I'm Fares Mohamed
+# Hi 👋, I'm Fares
+## About Me ✨
+I'm Fares Mohamed, a CS student at Zagazig University with a strong passion for Problem-Solving, Data Science and AI.
 
 <!--
 **FAr-Es/FAr-Es** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
