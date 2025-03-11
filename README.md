@@ -17,6 +17,8 @@ I'm **Fares Mohamed**, a CS student at Zagazig University with a strong passion 
 ## Let's Connect 🤝  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fares-mohamed-79b947287/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FAr-Es)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Fares_99)
+
 
 
 <!--
