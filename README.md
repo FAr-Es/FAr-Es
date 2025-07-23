@@ -3,8 +3,8 @@
 ## 👋 Hi, I’m Fares Tarabek
 
 ### 👨‍💻 Who am I?
-- 🎓 3rd year Computer Science student at Zagazig University
-- 🧠 Codeforces Specialist  
+- 🎓 3rd year Computer Science student @ Zagazig University
+- 🧠 Problem solver @ Codeforces
 - 🚀 Passionate about backend development, mobile apps, and solving real-world problems with code  
 - 🔭 Always learning, always building
 
@@ -26,13 +26,5 @@
 [![Codeforces](https://img.shields.io/badge/Codeforces-%231f8acb.svg?&style=flat)](https://codeforces.com/profile/Fares_99)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:farestarabek@gmail.com)
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FAr-Es&show_icons=true&theme=radical" alt="Fares's GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=FAr-Es&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
-</p>
 
