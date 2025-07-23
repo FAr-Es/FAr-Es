@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:9400D3&height=200&section=header&text=Fares%20Tarabek&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:000000&height=200&section=header&text=Fares%20Tarabek&fontSize=40&fontColor=ffffff" />
 
 ## 👋 Hi, I’m Fares Tarabek
 
@@ -31,8 +31,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FaresTarabek&show_icons=true&theme=radical" alt="Fares's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FAr-Es&show_icons=true&theme=radical" alt="Fares's GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=FaresTarabek&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=FAr-Es&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
