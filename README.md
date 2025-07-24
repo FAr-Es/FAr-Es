@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:000000&height=200&section=header&text=Fares%20Tarabek&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:000000&height=200&section=header&text=Fares%20Saleh&fontSize=40&fontColor=ffffff" />
 
-## 👋 Hi, I’m Fares Tarabek
+## 👋 Hi, I’m Fares
 
 ### 👨‍💻 Who am I?
 - 🎓 3rd year Computer Science student @ Zagazig University
