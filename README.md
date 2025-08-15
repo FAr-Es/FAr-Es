@@ -13,7 +13,10 @@
 ### 🛠️ My Skills
 
 #### 💻 Programming Languages:
-`C++` | `C#` | `Java` | `JavaScript` | `Python` | `Dart` | `SQL`
+`C++` | `C#` | `Java` | `Python` | `Dart` | `SQL`
+
+#### 🌍 Web Development:
+`HTML` | `CSS` | `JavaScript`
 
 #### 🧰 Tools & Technologies:
 `Visual Studio Code` | `Flutter` | `Git & GitHub` | `Firebase`
