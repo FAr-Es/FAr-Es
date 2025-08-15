@@ -5,7 +5,7 @@
 ### 👨‍💻 Who am I?
 - 🎓 3rd year Computer Science student @ Zagazig University
 - 🧠 Problem solver @ Codeforces
-- 🚀 Passionate about backend development, mobile apps, and solving real-world problems with code  
+- 🚀 Passionate about web development, mobile apps, and solving real-world problems with code  
 - 🔭 Always learning, always building
 
 ---
