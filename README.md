@@ -13,7 +13,7 @@
 ### 🛠️ My Skills
 
 #### 💻 Programming Languages:
-`C++` | `C#` | `Java` | `Python` | `Dart` | `SQL`
+`Dart` | `C++` | `Python` | `Java` | `SQL`
 
 #### 🌍 Web Development:
 `HTML` | `CSS` | `JavaScript`
