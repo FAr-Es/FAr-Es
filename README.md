@@ -28,11 +28,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fares-mohamed-79b947287/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-%231f8acb.svg?&style=flat)](https://codeforces.com/profile/Fares_99)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:farestarabek@gmail.com)
-
----
-
-## 📊 GitHub Stats
-
-![trophy](https://github-profile-trophy.vercel.app/?username=FAr-Es&theme=tokyonight&no-frame=true&row=1)
-
-![](https://komarev.com/ghpvc/?username=FAr-Es&color=blueviolet&style=flat)
