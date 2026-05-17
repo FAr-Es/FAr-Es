@@ -28,3 +28,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fares-mohamed-79b947287/)
 [![Codeforces](https://img.shields.io/badge/Codeforces-%231f8acb.svg?&style=flat)](https://codeforces.com/profile/Fares_99)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:farestarabek@gmail.com)
+
+---
+
+## 📊 GitHub Stats
+
+![Fares's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FAr-Es&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FAr-Es&layout=compact&theme=tokyonight&hide_border=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=FAr-Es&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
