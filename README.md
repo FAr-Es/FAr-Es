@@ -3,9 +3,10 @@
 ## 👋 Hi, I’m Fares
 
 ### 👨‍💻 Who am I?
-- 🎓 3rd year Computer Science student @ Zagazig University
+- 🎓 Computer Science student @ Zagazig University (2023 – Present)
+- 📱 Flutter Developer — building cross-platform mobile apps with clean architecture
 - 🧠 Problem solver @ Codeforces
-- 🚀 Passionate about web development, mobile apps, and solving real-world problems with code  
+- 🤖 Gen AI enthusiast (LLMs, RAG, prompt engineering)
 - 🔭 Always learning, always building
 
 ---
@@ -13,13 +14,19 @@
 ### 🛠️ My Skills
 
 #### 💻 Programming Languages:
-`Dart` | `C++` | `Python` | `Java` | `SQL`
+`Dart` | `Python` | `JavaScript` | `SQL` | `C++`
+
+#### 📱 Mobile Development:
+`Flutter` | `BLoC/Cubit` | `Firebase` | `REST APIs` | `Dio`
 
 #### 🌍 Web Development:
-`HTML` | `CSS` | `JavaScript`
+`HTML5` | `CSS3` | `JavaScript` | `Django` | `PostgreSQL`
 
 #### 🧰 Tools & Technologies:
-`Visual Studio Code` | `Flutter` | `Git & GitHub` | `Firebase`
+`Git & GitHub` | `VS Code` | `Android Studio` | `Postman` | `Firebase`
+
+#### 🧩 CS Fundamentals:
+`OOP` | `Data Structures` | `Algorithms` | `Databases` | `Networks` | `OS`
 
 ---
 
