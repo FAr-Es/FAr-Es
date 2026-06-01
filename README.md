@@ -6,7 +6,6 @@
 - 🎓 Computer Science student @ Zagazig University (2023 – Present)
 - 📱 Flutter Developer — building cross-platform mobile apps with clean architecture
 - 🧠 Problem solver @ Codeforces
-- 🤖 Gen AI enthusiast (LLMs, RAG, prompt engineering)
 - 🔭 Always learning, always building
 
 ---
