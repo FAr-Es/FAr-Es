@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7:431775,100:000000&height=200&section=header&text=Fares%20Tarabek&fontSize=40&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7:b30000,100:000000&height=200&section=header&text=Fares%20Tarabek&fontSize=40&fontColor=ffffff" />
 
 ## 👋 Hi, I’m Fares
 
