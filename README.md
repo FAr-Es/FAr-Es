@@ -5,7 +5,6 @@
 ### 👨‍💻 Who am I?
 - 🎓 Computer Science student @ Zagazig University (2023 – Present)
 - 📱 Flutter Developer — building cross-platform mobile apps with clean architecture
-- 🧠 Problem solver @ Codeforces
 - 🔭 Always learning, always building
 
 ---
